@@ -1,0 +1,1 @@
+Get-Item C:\windows\* | where-object { $_.Name -like "w*" }
