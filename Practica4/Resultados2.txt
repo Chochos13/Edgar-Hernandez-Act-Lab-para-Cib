@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ZeroTier Discussions</title>
+    <meta name="description" content="A place to discuss all things ZeroTier">
+    <meta name="generator" content="Discourse 2.8.1 - https://github.com/discourse/discourse version d7b48d0229dee31f22dedde0fd7550c51de10f78">
+<link rel="icon" type="image/png" href="https://discuss.zerotier.com/uploads/default/optimized/1X/1acc8fb7e073ac3083a2035621f87f67be3fcc5d_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="https://discuss.zerotier.com/uploads/default/optimized/1X/a757b02c0bcd1546bb51f6191b15c303c0e60d7a_2_180x180.png">
+<meta name="theme-color" content="#111111">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="https://discuss.zerotier.com/" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://discuss.zerotier.com","potentialAction":{"@type":"SearchAction","target":"https://discuss.zerotier.com/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="https://discuss.zerotier.com/opensearch.xml" title="ZeroTier Discussions Search">
+
+      <link href="/stylesheets/desktop_7ada8567ecd71d0bd393e9d7e3e137ef185bb0be.css?__ws=discuss.zerotier.com" media="all" rel="stylesheet" data-target="desktop"  />
+      <link href="/stylesheets/desktop_theme_4_8cf3b7f90deeac9506e87842e2a2bb2809c39b42.css?__ws=discuss.zerotier.com" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="4" data-theme-name="zerotier"/>
+    
+<script src="/theme-javascripts/7c2544bbec6983ed5cdcb405848f9535dde52d93.js?__ws=discuss.zerotier.com"></script>
+    
+      <meta property="og:site_name" content="ZeroTier Discussions" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://discuss.zerotier.com/uploads/default/original/1X/a757b02c0bcd1546bb51f6191b15c303c0e60d7a.png" />
+<meta property="og:image" content="https://discuss.zerotier.com/uploads/default/original/1X/a757b02c0bcd1546bb51f6191b15c303c0e60d7a.png" />
+<meta property="og:url" content="https://discuss.zerotier.com/" />
+<meta name="twitter:url" content="https://discuss.zerotier.com/" />
+<meta property="og:title" content="ZeroTier Discussions" />
+<meta name="twitter:title" content="ZeroTier Discussions" />
+<meta property="og:description" content="A place to discuss all things ZeroTier" />
+<meta name="twitter:description" content="A place to discuss all things ZeroTier" />
+
+    
+  </head>
+  <body class="crawler">
+    
+    <header>
+      <a href="/">
+          <img src="https://discuss.zerotier.com/uploads/default/original/1X/04463ef128b2709c09427e14b3e84ca4ce6a053b.png" alt="ZeroTier Discussions" id="site-logo" style="max-width: 150px;">
+      </a>
+    </header>
+    <div id="main-outlet" class="wrap">
+      <div itemscope itemtype='http://schema.org/ItemList'>
+  <meta itemprop='itemListOrder' content='http://schema.org/ItemListOrderDescending'>
+  <table class='category-list'>
+    <thead>
+      <tr>
+        <th class='category'>Category</th>
+        <th class='topics'>Topics</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td class='category' style='border-color: #0E76BD;'>
+            <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+              <meta itemprop='position' content='0'>
+              <meta itemprop='url' content='/c/community-support/8'>
+              <h3>
+                <a href='/c/community-support/8'>
+                  <span itemprop='name'>Community Support</span>
+                </a>
+              </h3>
+              <div itemprop='description'>Having issues?  Post it here!  Just make sure you?ve searched the forums and can?t find an answer to your problem first!</div>
+            </div>
+          </td>
+          <td class='topics'>
+            <div title='558 Topics'>558</div>
+          </td>
+        </tr>
+        <tr>
+          <td class='category' style='border-color: #3AB54A;'>
+            <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+              <meta itemprop='position' content='1'>
+              <meta itemprop='url' content='/c/guides/6'>
+              <h3>
+                <a href='/c/guides/6'>
+                  <span itemprop='name'>Tips and Guides</span>
+                </a>
+              </h3>
+              <div itemprop='description'>Posts here show how to do different things with ZeroTier along with some links to common issues in our knowledge base.</div>
+            </div>
+          </td>
+          <td class='topics'>
+            <div title='15 Topics'>15</div>
+          </td>
+        </tr>
+        <tr>
+          <td class='category' style='border-color: #25AAE2;'>
+            <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+              <meta itemprop='position' content='2'>
+              <meta itemprop='url' content='/c/feature-requests/5'>
+              <h3>
+                <a href='/c/feature-requests/5'>
+                  <span itemprop='name'>Feature Requests</span>
+                </a>
+              </h3>
+              <div itemprop='description'>Vote on and post feature requests here.  We want to hear what you?d like to see from ZeroTier in the future!</div>
+            </div>
+          </td>
+          <td class='topics'>
+            <div title='78 Topics'>78</div>
+          </td>
+        </tr>
+        <tr>
+          <td class='category' style='border-color: #0088CC;'>
+            <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+              <meta itemprop='position' content='3'>
+              <meta itemprop='url' content='/c/general-discussion/7'>
+              <h3>
+                <a href='/c/general-discussion/7'>
+                  <span itemprop='name'>General Discussion</span>
+                </a>
+              </h3>
+              <div itemprop='description'>A place for general discussion about ZeroTier, TCP/IP, networking and all things related.</div>
+            </div>
+          </td>
+          <td class='topics'>
+            <div title='153 Topics'>153</div>
+          </td>
+        </tr>
+        <tr>
+          <td class='category' style='border-color: #ED207B;'>
+            <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+              <meta itemprop='position' content='4'>
+              <meta itemprop='url' content='/c/sdk/13'>
+              <h3>
+                <a href='/c/sdk/13'>
+                  <span itemprop='name'>SDK</span>
+                </a>
+              </h3>
+              <div itemprop='description'>See <a href="http://docs.zerotier.com/sockets/tutorial.html">docs.zerotier.com</a> and <a href="https://github.com/zerotier/libzt/issues">github.com/zerotier/libzt</a></div>
+            </div>
+          </td>
+          <td class='topics'>
+            <div title='12 Topics'>12</div>
+          </td>
+        </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+
+    </div>
+    <footer class="container wrap">
+      <nav class='crawler-nav'>
+        <ul>
+        <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+          <span itemprop='name'>
+            <a href='/' itemprop="url">Home </a>
+          </span>
+        </li>
+        <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+          <span itemprop='name'>
+            <a href='/categories' itemprop="url">Categories </a>
+          </span>
+        </li>
+        <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+          <span itemprop='name'>
+            <a href='/guidelines' itemprop="url">FAQ/Guidelines </a>
+          </span>
+        </li>
+        <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+          <span itemprop='name'>
+            <a href='/tos' itemprop="url">Terms of Service </a>
+          </span>
+        </li>
+        <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+          <span itemprop='name'>
+            <a href='/privacy' itemprop="url">Privacy Policy </a>
+          </span>
+        </li>
+        </ul>
+      </nav>
+      <p class='powered-by-link'>Powered by <a href="https://www.discourse.org">Discourse</a>, best viewed with JavaScript enabled</p>
+    </footer>
+    
+    
+  </body>
+  
+</html>
+
