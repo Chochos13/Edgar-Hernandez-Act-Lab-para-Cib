@@ -1,9 +1,10 @@
 import base64
 
-file = open('mystery_img1.txt','rb')
-byte = file.read()
-file.close()
+def decodificadorimg(link):
+	file = open(link,'rb')
+	byte = file.read()
+	file.close()
 
-decodeit = open('mystery_img1.jpg','wb')
-decodeit.write(base64.b64decode((byte)))
-decodeit.close()
+	decodeit = open(link,'wb')
+	decodeit.write(base64.b64decode((byte)))
+	decodeit.close()

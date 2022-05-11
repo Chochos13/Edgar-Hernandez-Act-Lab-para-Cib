@@ -1,0 +1,774 @@
+
+Windows IP Configuration
+
+    tr.blismedia.com
+    ----------------------------------------
+    Record Name . . . . . : tr.blismedia.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 48797
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 34.96.105.8
+
+
+    user-images.githubusercontent.com
+    ----------------------------------------
+    Record Name . . . . . : user-images.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1322
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.109.133
+
+
+    Record Name . . . . . : user-images.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1322
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.110.133
+
+
+    Record Name . . . . . : user-images.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1322
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.111.133
+
+
+    Record Name . . . . . : user-images.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1322
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.108.133
+
+
+    tumblr.com
+    ----------------------------------------
+    Record Name . . . . . : tumblr.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2666
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 74.114.154.21
+
+
+    Record Name . . . . . : tumblr.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2666
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 74.114.154.17
+
+
+    www.youtube.com
+    ----------------------------------------
+    Record Name . . . . . : www.youtube.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 288
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : youtube-ui.l.google.com
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 288
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.251.33.238
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 288
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.251.34.14
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 288
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.251.34.46
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 288
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.251.34.142
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 288
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.251.34.174
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 288
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.251.34.206
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 288
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.251.34.238
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 288
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.251.35.14
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 288
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.2.142
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 288
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.3.142
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 288
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.65.110
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 288
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.65.142
+
+
+    array803.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : array803.prod.do.dsp.mp.microsoft.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 857
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.137.103.96
+
+
+    clientservices.googleapis.com
+    ----------------------------------------
+    Record Name . . . . . : clientservices.googleapis.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 212
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.251.34.195
+
+
+    ctldl.windowsupdate.com
+    ----------------------------------------
+    Record Name . . . . . : ctldl.windowsupdate.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 3
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : wu-bg-shim.trafficmanager.net
+
+
+    Record Name . . . . . : wu-bg-shim.trafficmanager.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 3
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : download.windowsupdate.com.edgesuite.net
+
+
+    Record Name . . . . . : download.windowsupdate.com.edgesuite.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 3
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : a767.dspw65.akamai.net
+
+
+    Record Name . . . . . : a767.dspw65.akamai.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 3
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 23.52.42.59
+
+
+    Record Name . . . . . : a767.dspw65.akamai.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 3
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 23.52.42.57
+
+
+    Record Name . . . . . : a767.dspw65.akamai.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 3
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 23.52.42.16
+
+
+    Record Name . . . . . : a767.dspw65.akamai.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 3
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 23.52.42.32
+
+
+    Record Name . . . . . : a767.dspw65.akamai.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 3
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 23.52.42.21
+
+
+    camo.githubusercontent.com
+    ----------------------------------------
+    Record Name . . . . . : camo.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 584
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.111.133
+
+
+    Record Name . . . . . : camo.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 584
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.108.133
+
+
+    Record Name . . . . . : camo.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 584
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.109.133
+
+
+    Record Name . . . . . : camo.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 584
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.110.133
+
+
+    array812.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : array812.prod.do.dsp.mp.microsoft.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 813
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.143.87.28
+
+
+    www.google.com
+    ----------------------------------------
+    Record Name . . . . . : www.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 114
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.251.34.164
+
+
+    rr1---sn-9gv7lnes.googlevideo.com
+    ----------------------------------------
+    Record Name . . . . . : rr1---sn-9gv7lnes.googlevideo.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 1147
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : rr1.sn-9gv7lnes.googlevideo.com
+
+
+    Record Name . . . . . : rr1.sn-9gv7lnes.googlevideo.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1147
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 74.125.3.230
+
+
+    relay-c4023f00.net.anydesk.com
+    ----------------------------------------
+    Record Name . . . . . : relay-c4023f00.net.anydesk.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 43340
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 212.102.40.164
+
+
+    array805.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : array805.prod.do.dsp.mp.microsoft.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 393
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.143.80.209
+
+
+    rr3---sn-q4flrn7r.googlevideo.com
+    ----------------------------------------
+    Record Name . . . . . : rr3---sn-q4flrn7r.googlevideo.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 1147
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : rr3.sn-q4flrn7r.googlevideo.com
+
+
+    Record Name . . . . . : rr3.sn-q4flrn7r.googlevideo.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1147
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 209.85.165.104
+
+
+    id5-sync.com
+    ----------------------------------------
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 20233
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 141.95.98.68
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 20233
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 141.95.98.64
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 20233
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 141.95.98.67
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 20233
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 141.95.98.70
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 20233
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 141.95.98.66
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 20233
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 141.95.98.69
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 20233
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 141.95.98.71
+
+
+    Record Name . . . . . : id5-sync.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 20233
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 141.95.98.65
+
+
+    ocsp.digicert.com
+    ----------------------------------------
+    Record Name . . . . . : ocsp.digicert.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 2325
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : cs9.wac.phicdn.net
+
+
+    Record Name . . . . . : cs9.wac.phicdn.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2325
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 72.21.91.29
+
+
+    www.mile-sec.com
+    ----------------------------------------
+    Record Name . . . . . : www.mile-sec.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 13465
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : mile-sec.com
+
+
+    Record Name . . . . . : mile-sec.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 13465
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 162.241.252.125
+
+
+    www.devsaran.com
+    ----------------------------------------
+    Record Name . . . . . : www.devsaran.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 85465
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 35.174.171.54
+
+
+    ag
+    ----------------------------------------
+    Record Name . . . . . : AG
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 575463
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.168.194.115
+
+
+    ag
+    ----------------------------------------
+    No records of type AAAA
+
+
+    easylist-downloads.adblockplus.org
+    ----------------------------------------
+    Record Name . . . . . : easylist-downloads.adblockplus.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 7
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 95.216.4.7
+
+
+    Record Name . . . . . : easylist-downloads.adblockplus.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 7
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 148.251.46.249
+
+
+    Record Name . . . . . : easylist-downloads.adblockplus.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 7
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 178.33.106.237
+
+
+    Record Name . . . . . : easylist-downloads.adblockplus.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 7
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 135.181.180.112
+
+
+    Record Name . . . . . : easylist-downloads.adblockplus.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 7
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 95.217.108.132
+
+
+    Record Name . . . . . : easylist-downloads.adblockplus.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 7
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 95.217.63.166
+
+
+    115.194.168.192.in-addr.arpa
+    ----------------------------------------
+    Record Name . . . . . : 115.194.168.192.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 575463
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : AG
+
+
+    r5---sn-0opoxu-hutey.googlevideo.com
+    ----------------------------------------
+    Record Name . . . . . : r5---sn-0opoxu-hutey.googlevideo.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 1145
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : r5.sn-0opoxu-hutey.googlevideo.com
+
+
+    Record Name . . . . . : r5.sn-0opoxu-hutey.googlevideo.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1145
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 189.247.85.16
+
+
+    support.twitter.com
+    ----------------------------------------
+    Record Name . . . . . : support.twitter.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 866
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.135
+
+
+    avatars.githubusercontent.com
+    ----------------------------------------
+    Record Name . . . . . : avatars.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1762
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.111.133
+
+
+    Record Name . . . . . : avatars.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1762
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.108.133
+
+
+    Record Name . . . . . : avatars.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1762
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.110.133
+
+
+    Record Name . . . . . : avatars.githubusercontent.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1762
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.109.133
+
+
+    ws.rqtrk.eu
+    ----------------------------------------
+    Record Name . . . . . : ws.rqtrk.eu
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1580
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 15.235.42.102
+
+
+    Record Name . . . . . : ws.rqtrk.eu
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1580
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 15.235.42.104
+
+
+    Record Name . . . . . : ws.rqtrk.eu
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1580
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 15.235.42.103
+
+
+    dvirus.training
+    ----------------------------------------
+    Record Name . . . . . : dvirus.training
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2689
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 74.208.236.27
+
+
+    rr1---sn-0opoxu-hutey.googlevideo.com
+    ----------------------------------------
+    Record Name . . . . . : rr1---sn-0opoxu-hutey.googlevideo.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 1146
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : rr1.sn-0opoxu-hutey.googlevideo.com
+
+
+    Record Name . . . . . : rr1.sn-0opoxu-hutey.googlevideo.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1146
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 189.247.85.12
+
+
+    www.reydes.com
+    ----------------------------------------
+    Record Name . . . . . : www.reydes.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 9864
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : reydes.com
+
+
+    Record Name . . . . . : reydes.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 9864
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 107.180.25.55
+
+
+    clients4.google.com
+    ----------------------------------------
+    Record Name . . . . . : clients4.google.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 297
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : clients.l.google.com
+
+
+    Record Name . . . . . : clients.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 297
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.251.35.14
+
+
+    match.adsrvr.org
+    ----------------------------------------
+    Record Name . . . . . : match.adsrvr.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 4175
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.223.40.198
+
+
+    Record Name . . . . . : match.adsrvr.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 4175
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 35.71.131.137
+
+
+    Record Name . . . . . : match.adsrvr.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 4175
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 15.197.193.217
+
+
+    Record Name . . . . . : match.adsrvr.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 4175
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 3.33.220.150
+
+
+    github.githubassets.com
+    ----------------------------------------
+    Record Name . . . . . : github.githubassets.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1943
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.110.154
+
+
+    Record Name . . . . . : github.githubassets.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1943
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.111.154
+
+
+    Record Name . . . . . : github.githubassets.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1943
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.109.154
+
+
+    Record Name . . . . . : github.githubassets.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1943
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.108.154
+
+
